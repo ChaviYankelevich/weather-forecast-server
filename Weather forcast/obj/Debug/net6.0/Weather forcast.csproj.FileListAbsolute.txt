@@ -1,0 +1,41 @@
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\bin\Debug\net6.0\Weather forcast.exe
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\bin\Debug\net6.0\Weather forcast.deps.json
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\bin\Debug\net6.0\Weather forcast.runtimeconfig.json
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\bin\Debug\net6.0\Weather forcast.dll
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\bin\Debug\net6.0\Weather forcast.pdb
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\obj\Debug\net6.0\Weather forcast.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\obj\Debug\net6.0\Weather forcast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\obj\Debug\net6.0\Weather forcast.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\obj\Debug\net6.0\Weather forcast.AssemblyInfo.cs
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\obj\Debug\net6.0\Weather forcast.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\obj\Debug\net6.0\Weather forcast.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\obj\Debug\net6.0\Weather forcast.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\obj\Debug\net6.0\staticwebassets\msbuild.Weather forcast.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\obj\Debug\net6.0\staticwebassets\msbuild.build.Weather forcast.props
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Weather forcast.props
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Weather forcast.props
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\obj\Debug\net6.0\scopedcss\bundle\Weather forcast.styles.css
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\obj\Debug\net6.0\Weather forcast.csproj.CopyComplete
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\obj\Debug\net6.0\Weather forcast.dll
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\obj\Debug\net6.0\refint\Weather forcast.dll
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\obj\Debug\net6.0\Weather forcast.pdb
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\obj\Debug\net6.0\Weather forcast.genruntimeconfig.cache
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\obj\Debug\net6.0\ref\Weather forcast.dll
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\bin\Debug\net6.0\Antlr3.Runtime.dll
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Documents\תכנות שנה ב\Weather forcast\Weather forcast\bin\Debug\net6.0\WebGrease.dll
